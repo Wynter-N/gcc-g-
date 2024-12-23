@@ -1,3 +1,0 @@
-/home/wynter/gccg++/build/CMakeFiles/hello.dir
-/home/wynter/gccg++/build/CMakeFiles/edit_cache.dir
-/home/wynter/gccg++/build/CMakeFiles/rebuild_cache.dir
